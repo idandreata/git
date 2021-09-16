@@ -1,0 +1,15 @@
+O git é o maior sistema de versionamento Utilizado amplamente pela comunidade dev, os comandos git são ferramentas indispensáveis no currículo de qualquer pessoa que pensa em trilhar na área,  uma ferramenta incrível e muito importante.
+
+
+COMANDOS PRINCIPAIS 
+
+-GIT COMMIT
+-GIT PULL
+-GIT INIT
+-GIT ADD
+-GIT PUSH
+-GIT STATUS 
+-GIT BRANCH
+-GIT CHECKOUT
+-GIT RESET
+-GIT REMOTE
